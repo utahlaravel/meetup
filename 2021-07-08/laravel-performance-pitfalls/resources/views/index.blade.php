@@ -41,7 +41,7 @@
                     {{ implode(', ', $route->methods()) }}
                 </td>
                 <td>
-                    {{ $route->getName() }}
+                    {{ $route->getName() ?? '(anonymous)' }}
                 </td>
                 <td>
                     {{ $route->getActionName() }}
@@ -49,6 +49,5 @@
             </tr>
         @endforeach
     </table>
-
 </body>
 </html>
