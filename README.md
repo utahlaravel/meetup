@@ -12,6 +12,7 @@ Can't find something? Email [utahlaravel@diglactic.com](mailto:utahlaravel@digla
 | Slack                 | https://utah-laravel.slack.com/                     |
 | GitHub                | https://github.com/utah-laravel                     |
 | Twitch (livestreams)  | https://www.twitch.tv/collections/k86Gn4YEkBYrtw    |
+| Submit a Talk         | https://forms.gle/Ak9uAgphrsRuB61TA                 |
 
 ## Snippets
 
