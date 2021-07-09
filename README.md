@@ -4,7 +4,13 @@ Here, you'll find source code and presentations from past meetups.
 
 Can't find something? Email [utahlaravel@diglactic.com](mailto:utahlaravel@diglactic.com).
 
-Join us at [utahlaravel.com](https://utahlaravel.com).
+## All the Links
+
+| Name          | URL                                   |
+| ------------- | ------------------------------------- |
+| Meetup        | https://www.meetup.com/utahlaravel/   |
+| Slack         | https://utah-laravel.slack.com/       |
+| GitHub        | https://github.com/utah-laravel       |
 
 ## Snippets
 
